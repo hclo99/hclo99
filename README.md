@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/s3-%569A31.svg?style=flat-square&logo=amazons3&logoColor=white"/>
   </div>
   <div>
     <h6>Infra</h6>
